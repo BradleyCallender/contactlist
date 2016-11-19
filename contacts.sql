@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS `contacts` (
 --
 
 INSERT INTO `contacts` (`id`, `firstname`, `lastname`, `email`, `social`) VALUES
-(80, 'Brad', 'Callender', 'bradleyhcallender@gmail.com', 'Linkedin'),
+
 (90, 'John', 'Doe', 'Johndoe@gmail.com', 'Xing'),
 (91, 'Jane', 'Doe', 'Janedoe@live.com', 'Facebook'),
 (93, 'Nikola', 'Tesla', 'Ntesla@electric.com', 'Twitter'),
